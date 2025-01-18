@@ -22,6 +22,6 @@
     </style>
 </head>
 <body>
-    <h1>Erkanra Naber?</h1>
+    <h1>Naber?</h1>
 </body>
 </html>
